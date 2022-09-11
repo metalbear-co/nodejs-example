@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9755de4c84b363",
+        "id": "4b0e4887185da913",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NodeJS Example/03. Mirrord mirroring.md",
-            "mode": "source"
+            "file": "NodeJS Example/01. Intro.md",
+            "mode": "source",
+            "source": false
           }
         },
-        "group": "978924ef6cd2fdfc"
+        "group": "c8a8128232f4fd68"
       },
       {
-        "id": "8d80ae926cece17e",
+        "id": "e0c8e300561ff60a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NodeJS Example/03. Mirrord mirroring.md",
-            "mode": "preview"
+            "file": "NodeJS Example/01. Intro.md",
+            "mode": "preview",
+            "source": false
           }
         },
-        "group": "978924ef6cd2fdfc"
+        "group": "c8a8128232f4fd68"
       }
     ],
     "direction": "vertical"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS Example/03. Mirrord mirroring.md",
+                "file": "NodeJS Example/01. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +101,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd9755de4c84b363",
+  "active": "4b0e4887185da913",
   "lastOpenFiles": [
-    "NodeJS Example/03. Mirrord mirroring.md",
-    "NodeJS Example/01. Intro.md",
-    "NodeJS Example/02. Example Setup.md"
+    "NodeJS Example/02. Example Setup.md",
+    "NodeJS Example/03. Mirrord Mirroring.md",
+    "NodeJS Example/04. Mirrord Steal.md",
+    "NodeJS Example/05. Summary.md",
+    "NodeJS Example/01. Intro.md"
   ]
 }
