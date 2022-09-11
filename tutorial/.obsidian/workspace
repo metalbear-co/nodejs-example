@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "c773a21679e8b014",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd9755de4c84b363",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NodeJS Example/03. Mirrord mirroring.md",
+            "mode": "source"
+          }
+        },
+        "group": "978924ef6cd2fdfc"
+      },
+      {
+        "id": "8d80ae926cece17e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NodeJS Example/03. Mirrord mirroring.md",
+            "mode": "preview"
+          }
+        },
+        "group": "978924ef6cd2fdfc"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d48c9a3128c29039",
+    "type": "split",
+    "children": [
+      {
+        "id": "482025d2309d8f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ccff5030c715f60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57fa53af37427eb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46207dde68e29be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "23df523044f419fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54ea28e0640a4d1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NodeJS Example/03. Mirrord mirroring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8d80ae926cece17e",
+  "lastOpenFiles": [
+    "NodeJS Example/03. Mirrord mirroring.md",
+    "NodeJS Example/02. Example Setup.md",
+    "NodeJS Example/01. Intro.md"
+  ]
+}
