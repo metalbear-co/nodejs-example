@@ -135,7 +135,7 @@ metadata:
   name: example-idp
 data:
   config.docker.yaml: |
-    issuer: http://localhost:30056/oidc
+    issuer: http://example-idp:5556/oidc
 
     storage:
       type: postgres
@@ -153,14 +153,12 @@ data:
       secret: local-example-blog-secret
       name: 'Blog'
       public: false
-
       redirectURIs:
       - 'http://localhost:3000/api/callback'
     - id: example-blog
       secret: example-blog-secret
       name: 'Blog'
       public: false
-
       redirectURIs:
       - 'http://localhost:30080/api/callback'
 
@@ -184,11 +182,10 @@ metadata:
   labels:
     app: example-idp
 spec:
-  type: NodePort
+  type: ClusterIP
   ports:
     - name: http
       port: 5556
       targetPort: http
-      nodePort: 30056
   selector:
     app: example-idp
