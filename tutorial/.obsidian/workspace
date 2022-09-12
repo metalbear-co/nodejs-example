@@ -13,21 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "c8a8128232f4fd68"
-      },
-      {
-        "id": "e0c8e300561ff60a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NodeJS Example/04. Mirrord Steal.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "c8a8128232f4fd68"
+        }
       }
     ],
     "direction": "vertical"
@@ -104,10 +90,10 @@
   "active": "4b0e4887185da913",
   "lastOpenFiles": [
     "NodeJS Example/03. Mirrord mirroring.md",
-    "NodeJS Example/04. Mirrord Steal.md",
-    "NodeJS Example/05. Summary.md",
     "NodeJS Example/02. Example Setup.md",
     "NodeJS Example/01. Intro.md",
+    "NodeJS Example/04. Mirrord Steal.md",
+    "NodeJS Example/05. Summary.md",
     "NodeJS Example/03. Mirrord Mirroring.md"
   ]
 }
