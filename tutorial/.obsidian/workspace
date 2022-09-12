@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NodeJS Example/04. Mirrord Outgoing.md",
+            "file": "NodeJS Example/02. Example Setup.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NodeJS Example/04. Mirrord Outgoing.md",
+            "file": "NodeJS Example/02. Example Setup.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS Example/04. Mirrord Outgoing.md",
+                "file": "NodeJS Example/02. Example Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +101,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aaac83663a9df4df",
+  "active": "4b0e4887185da913",
   "lastOpenFiles": [
+    "NodeJS Example/04. Mirrord Outgoing.md",
     "NodeJS Example/05. Mirrord Steal.md",
     "NodeJS Example/03. Mirrord Mirroring.md",
-    "NodeJS Example/04. Mirrord Outgoing.md",
     "NodeJS Example/02. Example Setup.md",
     "NodeJS Example/01. Intro.md",
     "NodeJS Example/06. Summary.md",
