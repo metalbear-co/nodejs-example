@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -x $(command -v migrate) ]
+if command -v migrate &> /dev/null
 then
   migrate -source 'file://./migrations' -database 'postgresql://postgres:example@localhost:5432?sslmode=disable' up;
 
